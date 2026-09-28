@@ -1,0 +1,6 @@
+name: genpark-reed-solomon-error-correcting-code-skill
+version: 1.0.0
+description: Galois Field GF(2^8) Reed-Solomon systematic error-correcting encoder and syndrome evaluation
+command: python
+args:
+  - mcp_server.py
